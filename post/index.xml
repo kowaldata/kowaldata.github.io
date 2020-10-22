@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 09 Oct 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://kowaldata.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identifying thermals triggering points with Python</title>
-      <link>https://kowaldata.github.io/post/project-2/</link>
+      <link>https://kowaldata.github.io/ascendance/</link>
       <pubDate>Mon, 19 Oct 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://kowaldata.github.io/post/project-2/</guid>
-      <description>To see the project - click here.</description>
+      <guid>https://kowaldata.github.io/ascendance/</guid>
+      <description>How to determine and visualize thermals source from flight records.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 18 Oct 2020 10:58:08 -0400</pubDate>
       
       <guid>https://kowaldata.github.io/post/project-1/</guid>
-      <description></description>
+      <description>10 years worth of flying in Buno - statistics.</description>
     </item>
     
     <item>
@@ -31,9 +31,7 @@
       <pubDate>Sat, 17 Oct 2020 11:00:59 -0400</pubDate>
       
       <guid>https://kowaldata.github.io/post/project-3/</guid>
-      <description>After compiling all the countryside flights performed by Buno’s member in 2019, I was able to obtain a heat map of the most visited places and used paths.
-  The center of the Ile-de-France region clearly stands out, as is it a forbidden area for us, glider pilots.
-  Our main playground seems to be located between the cities of Alençon and Le Mans on the West, Reims and Troyes on the East, and the Loire river on the south.</description>
+      <description>All the flights from 2019 on a single map.</description>
     </item>
     
   </channel>

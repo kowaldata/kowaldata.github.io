@@ -8,23 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://kowaldata.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Identifying thermals triggering points with Python</title>
-      <link>https://kowaldata.github.io/ascendance/</link>
-      <pubDate>Mon, 19 Oct 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://kowaldata.github.io/ascendance/</guid>
-      <description>How to determine and visualize thermals source from flight records.</description>
-    </item>
-    
-    <item>
       <title>Buno&#39;s gliding activity with Tableau Software</title>
       <link>https://kowaldata.github.io/tableau/</link>
-      <pubDate>Sun, 18 Oct 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 19 Oct 2020 11:00:59 -0400</pubDate>
       
       <guid>https://kowaldata.github.io/tableau/</guid>
       <description>10 years worth of flying in Buno - statistics.</description>
     </item>
     
+    <item>
+      <title>Identifying thermals triggering points with Python</title>
+      <link>https://kowaldata.github.io/ascendance/</link>
+      <pubDate>Sun, 18 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kowaldata.github.io/ascendance/</guid>
+      <description>How to determine and visualize thermals source from flight records.</description>
+    </item>
+
     <item>
       <title>Where did Buno&#39;s pilots fly in 2019 with Folium</title>
       <link>https://kowaldata.github.io/post/project-3/</link>
